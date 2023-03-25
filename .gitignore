@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.env
+log
+sandbox
+config.toml
+config_file.toml
